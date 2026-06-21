@@ -1,0 +1,17 @@
+Stream,Group,Trend,alpha,beta'_1 ± SE,beta'_2 ± SE
+sia_1,Siachen,downward,0,1.38 ± 0.178,1.21 ± 0.0498
+sia_2,Siachen,constant,1,0.0196 ± 0.00102,0.0193 ± 0.000170
+sia_3,Siachen,downward,0,1.49 ± 0.124,1.29 ± 0.0424
+sia_4,Siachen,constant,1,0.0189 ± 0.00105,0.0184 ± 0.0000931
+sia_5,Siachen,constant,1,0.0157 ± 0.000758,0.0157 ± 0.0000976
+sia_6,Siachen,downward,0,1.53 ± 0.117,1.38 ± 0.0220
+ron_1,Rongbuk,downward,0,2.90 ± 0.195,2.51 ± 0.0274
+fou_1,Fountain,upward,2,0.000963 ± 0.0000601,0.00103 ± 0.0000157
+fou_2,Fountain,upward,2,0.00110 ± 0.0000791,0.00128 ± 0.0000385
+fou_3,Fountain,upward,2,0.00137 ± 0.000177,0.00169 ± 0.0000496
+fou_4,Fountain,upward,2,0.00162 ± 0.000169,0.00178 ± 0.0000531
+von_1,Vonbreen,upward,2,0.000573 ± 0.0000255,0.000648 ± 0.00000892
+von_2,Vonbreen,upward,2,0.000637 ± 0.0000239,0.000648 ± 0.00000552
+von_3,Vonbreen,upward,2,0.000748 ± 0.0000372,0.000851 ± 0.0000144
+von_4,Vonbreen,upward,2,0.000602 ± 0.0000277,0.000641 ± 0.00000772
+vet_1,Veteranbreen,constant,1,0.0230 ± 0.00102,0.0220 ± 0.000268
