@@ -15,8 +15,8 @@ This notebook performs all quantitative analysis on the loaded glacier stream da
 * Segment means — mean velocity, elevation, relief, length and maximum elevation per segment using all the points.
 * Slope — `slope_l` (along sinuous path, computed as elevation difference between neighbouring segments divided by their length difference) and `slope_d` (along flowline path, computed as delta-z over normal length per segment) Refere supplementary Text S1 for more details.
 * Flux of sinuosity — sinuosity × velocity per segment.
-* beta'1 (slope profile parameter) — fitted from the slope profile equation `S = β'₁ · x^((α−1)/2)` using OLS through the origin, with corresponding standard error.
-* beta'2 (elevation profile parameter) — fitted from the elevation integral equation using OLS, with corresponding standard error.
+* beta'1 (slope profile parameter) — fitted from the slope profile equation `S = β'₁ · x^((α−1)/2)`, with corresponding standard error.
+* beta'2 (elevation profile parameter) — fitted from the elevation integral equation, with corresponding standard error.
 * Goodness of fit metrics — R², Adjusted R², RMSE, MAE, NMRSE and Pearson r for both the slope profile fit and the elevation profile fit.
 Results are saved to `analysis.pkl` for use in the plotting notebook.
 
